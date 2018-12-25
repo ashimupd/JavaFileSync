@@ -1,1 +1,1 @@
-# noober
++ Using TCP protocol and two computers, one being local computer and other being a remote computer, replicate the "home" directory structure from the local computer onto the remote computer as "home-backup". Once you replicate the directory structure copy all the files from "home" to "home-backup" at their respective places/locations. 
